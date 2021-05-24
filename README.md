@@ -1,5 +1,5 @@
 # yijinjing
-mmap通信库
+基于功夫1.0 mmap通信库组件
 依赖 log4cplus boost
 
 ```

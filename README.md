@@ -15,5 +15,7 @@ make install
 # 安装boost
 yum install boost
 yum install boost-devel
+# 运行setup.sh 新建所需文件夹
+sh setup.sh
 
 

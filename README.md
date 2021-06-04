@@ -17,5 +17,9 @@ yum install boost
 yum install boost-devel
 # 运行setup.sh 新建所需文件夹
 sh setup.sh
+#运行说明
+先运行pageEngine
+第一次运行需要先运行writer，因为文件夹中无文件
+第二次运行可先运行reader后运行writer
 
 
